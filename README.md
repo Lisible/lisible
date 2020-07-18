@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Lisible-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lisible/)](https://www.linkedin.com/in/lisible/)
+
+I'm Clément Sibille, a french software engineer who is passioned by Japan, game engines and functional programming.
+
+
+🌱 I’m currently learning Rust
+
+🔭 I’m currently working on tuber, my own game engine
+
+
+
 
 <!--
 **Lisible/lisible** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
