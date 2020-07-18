@@ -4,9 +4,8 @@
 I'm Clément Sibille, a french software engineer who is passioned by Japan, game engines and functional programming.
 
 
-🌱 I’m currently learning Rust
-
-🔭 I’m currently working on tuber, my own game engine
+- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on tuber, my own game engine
 
 
 
