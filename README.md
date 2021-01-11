@@ -5,6 +5,7 @@ I'm Clément Sibille, a french software engineer who is passioned by Japan, game
 
 
 - 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on tecs, a Rust Entity-Component-System library
 - 🔭 I’m currently working on tuber, my own game engine
 
 I'm a proud member of [The Programmer's Hangout](https://discord.gg/programming).
