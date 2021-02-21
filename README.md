@@ -12,6 +12,20 @@ I'm a proud member of [The Programmer's Hangout](https://discord.gg/programming)
 
 During the day I work as a fullstack developer in the healthcare industry. I'm **NOT** currently looking for job opportunities.
 
+---
+
+
+Clément Sibille (クレマン・シビル）です。フランスのソフトエンジニアです。
+日本とゲームエンジンと関数型プログラミングがすき！
+
+* 🌱 Rustを習っています。
+* 🔭 tecsを作っています、RustでEntity-Component-Systemです。
+* 🔭 tuberを作っています、自分のゲームエンジン。
+
+[The Programmer's Hangout](https://discord.gg/programming)のメンバーです。
+日常生活では、医療業界でフルスタック開発者として働いています。
+
+
 
 
 
