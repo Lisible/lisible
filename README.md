@@ -3,11 +3,9 @@
 
 I'm Clément Sibille, a french software engineer who is passioned by Japan, game engines and functional programming.
 
-
-- 🌱 I’m currently learning Rust
 - 🔭 I’m currently working on tuber, my own game engine
 
-During the day I work as a fullstack developer in the healthcare industry. I'm **NOT** currently looking for job opportunities.
+I'm **NOT** currently looking for job opportunities.
 
 ---
 
@@ -15,10 +13,7 @@ During the day I work as a fullstack developer in the healthcare industry. I'm *
 Clément Sibille (クレマン・シビル）です。フランスのソフトエンジニアです。
 日本とゲームエンジンと関数型プログラミングがすき！
 
-* 🌱 Rustを習っています。
 * 🔭 tuberを作っています、自分のゲームエンジン。
-
-日常生活では、医療業界でフルスタック開発者として働いています。
 
 
 
