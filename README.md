@@ -4,7 +4,7 @@
 I'm Clément Sibille, a french software engineer who is passioned by Japan, game engines and functional programming.
 
 - 🔭 I’m currently working on cuttereng, my own game engine
-- 🔭 I’m currently working on lisiblepng, a PNG decoding library
+- 🔭 I’m currently working on lisibleflac, a FLAC decoding library
 
 I'm **NOT** currently looking for job opportunities.
 
@@ -15,7 +15,7 @@ Clément Sibille (クレマン・シビル）です。フランスのソフト�
 日本とゲームエンジンと関数型プログラミングがすき！
 
 * 🔭 cutterengを作っています、自分のゲームエンジンです
-* 🔭 lisiblepngを作っています、PNGデコーディング・ライブラリです
+* 🔭 lisibleflacを作っています、FLACデコーディング・ライブラリです
 
 
 
