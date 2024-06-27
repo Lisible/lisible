@@ -6,8 +6,6 @@ I'm Clément Sibille, a french software engineer who is passioned by Japan, game
 - 🔭 I’m currently working on cuttereng, my own game engine
 - 🔭 I’m currently working on lisibleflac, a FLAC decoding library
 
-I'm **NOT** currently looking for job opportunities.
-
 ---
 
 
